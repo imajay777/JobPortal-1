@@ -6,9 +6,9 @@ public class DatabaseUtility {
 
 	public Connection getConnection()
 	{
-		String url = "jdbc:mysql://localhost:3306/jobportal";
-		String username = "root";
-		String password = "";
+		String url = "jdbc:mysql://jobportal:12345/jobportal"; // "jdbc:mysql://<HOST_NAME>:<PORT_NUMBER>/jobportal"
+		String username = "abc"; //DB_USERNAME
+		String password = "password"; //DB_PASSWORD
 		Connection con = null;
 
 		try 
