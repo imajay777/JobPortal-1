@@ -8,4 +8,4 @@ The key features that this portal includes are as follows:
 •	Admin page – This includes the space to provide job description section, Qualifications section, Skill requirement section, etc. This is controlled by an admin user at the company’s end who is responsible for posting new jobs on the portal for applicants to apply for.
 •	Postings page – Once the administrator has filled in the details regarding a job the next thing would be to see the new job posted in the list of jobs that are open right now. The admin is redirected to the “Openings” page to verify whether the new job has been added to the list successfully.
 
-build/classes/edu/fit/cis/finalproject - Please ignore this folder, it has all the .class files. All the java files are in src/edu/fit/cis/finalproject folder
+Please Note: build/classes/edu/fit/cis/finalproject - Please ignore this folder, it has all the .class files. All the java files are in src/edu/fit/cis/finalproject folder
